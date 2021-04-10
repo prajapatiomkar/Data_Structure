@@ -1,4 +1,4 @@
-# Selection_Sort
+# Selection_Sort.
 
 list1=[5,2,4,58,62,74,25,3,69,41,25]
 print("Before Sorting : ",list1,"\n")
